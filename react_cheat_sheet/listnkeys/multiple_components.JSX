@@ -1,0 +1,1 @@
+{data.map((item) => <Component key={item.id} item={item} />}
